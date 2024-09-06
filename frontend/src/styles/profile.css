@@ -1,0 +1,23 @@
+.profile_pic {
+  width: 100%;
+  border-radius: 100%;
+}
+
+.github_username {
+  font-weight: 100;
+  font-size: 25px;
+}
+
+.access_pill {
+  color: #848d97;
+  border: 1px solid #242a30;
+  background-color: transparent;
+  text-align: center;
+  align-items: center;
+}
+
+.repo_card {
+  color: #848d97;
+  background: transparent;
+  border: 1px solid #30363d;
+}
